@@ -1,0 +1,140 @@
+--------------------------------------------------------------------------------
+SOURCE: now, that shallow history doesn't suggest to me that we have all the answers for all of the challenges that will confront us in the ensuing millennia.
+TARGET: cette histoire superficielle n'insinue pas que nous détenons toutes les réponses à tous les défis auxquels nous serons confrontés dans les futurs millénaires.
+PREDICTED: alors , cette histoire de l ' histoire ne me permet pas de répondre à toutes les réponses que nous en sur le rôle des parcours que nous en dans les prochaines millénaires .
+BLEU Score: 0.0000, CER: 0.5696, WER: 1.1304
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: but the process, and the heavy anxiety around it was released when he took the genie, the genius out of him where it was causing nothing but trouble, and released it kind of back where it came from, and realized that this didn't have to be this internalized, tormented thing.
+TARGET: mais le processus, oui. et l'angoisse qui l'entourait a lâché prise quand il a sorti le génie son être, où il ne lui apportait que des tourments, pour le relâcher là d'où il venait, et qu'il a compris que ce n'avait pas à être cette chose intériorisée et tourmentée.
+PREDICTED: mais le processus , et l ' anxiété autour du quand il a pris la balle , le génie de son coté , et il ne le fera plus , et a publié l ' endroit où il s ' agissait de , et décidé que ce n ' était pas .
+BLEU Score: 0.0988, CER: 0.6128, WER: 0.8776
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: this is not an electron micrograph; this is just a regular photomicrograph.
+TARGET: ce n'est pas une micrographie électronique; c'est juste une photomicrographie normale.
+PREDICTED: ce n ' est pas une sous - marin ; c ' est juste un très beau .
+BLEU Score: 0.0000, CER: 0.5465, WER: 1.2727
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: talk about getting by with nothing.
+TARGET: comment s'en sortir avec rien.
+PREDICTED: ça ne fait rien qu ' avec rien .
+BLEU Score: 0.0000, CER: 0.5667, WER: 1.6000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: well, the truth is the 20th century, 300 years from now, is not going to be remembered for its wars or its technological innovations, but rather as the era in which we stood by and either actively endorsed or passively accepted the massive destruction of both biological and cultural diversity on the planet. now, the problem isn't change.
+TARGET: a vrai dire, dans 300 ans, le 20e siècle ne sera pas reconnu pour ses guerres ni pour ses innovations technologiques, mais plutôt comme une ère dans laquelle nous avons vécu et avons soit activement adhéré ou bien passivement accepté la destruction massive de la diversité biologique ainsi que culturelle sur la planète. le problème aujourd'hui n'est pas le changement.
+PREDICTED: la vérité , au 20e siècle , 300 ans , on ne va pas se permettre à ses guerres à son système ou à son économie technologique , mais à l ' ère dans laquelle nous étions en compte par la seule ou soit à travers une quelconque phase de destruction ou la terre . ce qui n ' est pas le problème de la planète biologique et à l ' évolution .
+BLEU Score: 0.0815, CER: 0.6070, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: you know, is it rational?
+TARGET: est-ce rationnel ?
+PREDICTED: vous savez , est - ce réaliste ?
+BLEU Score: 0.0000, CER: 1.1667, WER: 2.3333
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and so, what i'd like to do with you today is sort of take you on a journey through the ethnosphere, a brief journey through the ethnosphere, to try to begin to give you a sense of what in fact is being lost.
+TARGET: enfin, ce que je voudrais faire avec vous aujourd'hui c'est vous emmener, en quelque sorte, faire un voyage dans l'ethnosphère -- un court voyage dans l'ethnosphère pour tenter de vous expliquer, en fait, ce qui se perd.
+PREDICTED: et donc , ce que j ' aimerais que vous pensiez d ' une type de , vous sur un , un bref , pour commencer à reconstituer pour vous donner un sens à ce qui est perdu .
+BLEU Score: 0.0000, CER: 0.6318, WER: 0.9189
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: you could have done better.
+TARGET: vous auriez pu faire mieux.
+PREDICTED: on aurait pu faire de mieux .
+BLEU Score: 0.0000, CER: 0.3704, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and you inject it by just bumping up the sound siftable against a sequence siftable.
+TARGET: et on l'intègre simplement en cognant le siftable de son contre un siftable de séquence.
+PREDICTED: et vous l ' ignorez au son que des sur une séquence de son .
+BLEU Score: 0.0000, CER: 0.6477, WER: 0.9333
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: which is great, because the romans did not actually think that a genius was a particularly clever individual.
+TARGET: ce qui est formidable, car les romains ne pensaient pas qu'un génie était une personne particulièrement douée.
+PREDICTED: ce qui est génial , parce que la n ' a pas vraiment pensé que un génie très puissant .
+BLEU Score: 0.0000, CER: 0.5818, WER: 0.9412
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: now, what does that mean?
+TARGET: qu'est-ce que cela veut dire ?
+PREDICTED: qu ' est - ce que ça signifie ?
+BLEU Score: 0.0000, CER: 0.4667, WER: 1.3333
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: then of course, there's all that co2 from this material that ends up in the atmosphere.
+TARGET: et il y a aussi bien sûr tout ce dioxyde de carbone produit par ces processus qui est rejeté dans l'atmosphere.
+PREDICTED: alors bien sûr , il y a tout ce co2 qui concerne cette matière qui vient de se tenir dans l ' atmosphère .
+BLEU Score: 0.0000, CER: 0.6216, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: superimposed on top of a nasa geospatial image.
+TARGET: superposées à une image géospatiale de la nasa.
+PREDICTED: pascal a superposé la de la nasa .
+BLEU Score: 0.3051, CER: 0.5957, WER: 0.8750
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and, one of the interesting things about this kind of application is that you don't have to give people many instructions.
+TARGET: de plus, l'un des aspects intéressants de ce genre d'application c'est qu'on n'a pas besoin de donner aux gens des tas d'instructions.
+PREDICTED: et , une des choses intéressante sur ce genre de application , c ' est que vous n ' avez pas à donner de belles instructions .
+BLEU Score: 0.0000, CER: 0.4328, WER: 1.0909
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: christianity, islam, buddhism, judaism, whatever.
+TARGET: le christianisme, l'islam, le bouddhisme, le judaïsme, peu importe.
+PREDICTED: , , bonjour , tout du judaïsme .
+BLEU Score: 0.0000, CER: 0.7164, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and other times she wouldn't be fast enough, so she'd be running and running and running, and she wouldn't get to the house and the poem would barrel through her and she would miss it and she said it would continue on across the landscape, looking, as she put it "for another poet."
+TARGET: d'autres fois elle n'était pas assez rapide, elle courait, courait, courait, mais n'arrivait pas à la maison et le poème la traversait en trombe et elle le manquait et elle disait qu'il continuait son chemin, à la recherche, selon ses propres termes, « d'un autre poète ».
+PREDICTED: et d ' autres fois elle ne serait pas assez vite , donc elle se et . et elle ne pas à la maison et le poème qui ne serait pas le poème au final , elle et elle ses yeux et disaient de mourir , à la dans le paysage , elle le paysage de l ' est " un autre poète ."
+BLEU Score: 0.1564, CER: 0.5625, WER: 1.0444
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: so i don't have to plan it out in advance, but i can improvise, making it longer or shorter as i go.
+TARGET: je n'ai donc pas besoin de la planifier à l'avance, mais je peux improviser, je peux l'allonger ou la raccourcir en plein milieu.
+PREDICTED: je n ' ai pas du tout de le planifier en l ' avance , mais je peux cliquer sur le place , ou plus j ' en vais .
+BLEU Score: 0.1023, CER: 0.4961, WER: 0.9130
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: this is a screen snapshot of some true design software that we're working on to actually be able to sit down and design species in the computer.
+TARGET: ceci est une photo d'écran d'un véritable logiciel de conception sur lequel nous travaillons pour nous permettre de créer des organismes sur ordinateur.
+PREDICTED: cet écran de concevoir de certains types de conception que nous travaillons sur en fait être en train de s ' asseoir et concevoir des espèces dans l ' ordinateur .
+BLEU Score: 0.0000, CER: 0.6250, WER: 1.1739
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: we need to go far, quickly.
+TARGET: nous avons besoin d'aller loin, et vite.
+PREDICTED: nous devons aller à présent , rapidement .
+BLEU Score: 0.0000, CER: 0.7000, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: if somebody bothered to tag all of these saints and say who they all are, then my photo of notre dame cathedral suddenly gets enriched with all of that data, and i can use it as an entry point to dive into that space, into that meta-verse, using everybody else's photos, and do a kind of a cross-modal and cross-user social experience that way.
+TARGET: si quelqu'un s'embêtait à marquer tous ces saints et à donner tous leurs noms, ma photo de la cathédrale notre dame serait enrichie d'un coup de toutes ces données, et je pourrais l'utiliser comme point d'entrée pour plonger dans cet espace, dans ce méta-verse, en utilisant les photos de tout le monde, pour faire une sorte d'expérience sociale trans-modale et trans-utilisateurs de cette manière.
+PREDICTED: si quelqu ' un a l ' étiquette de tous ces tapis et dire qui sont , et ensuite ma photo de qui a le droit de sorte de main , et que je pourrais l ' utiliser comme un morceau , en , en ce moment , le moment où tout le monde est de faire une sorte de , le monde et le faire une sorte de de ces photos les plus et l ' expérience sociale .
+BLEU Score: 0.0000, CER: 0.5854, WER: 1.0156
+--------------------------------------------------------------------------------
+

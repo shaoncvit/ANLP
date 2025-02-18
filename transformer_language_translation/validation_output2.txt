@@ -1,0 +1,140 @@
+--------------------------------------------------------------------------------
+SOURCE: so brilliant -- there it is, right there, that distance that i'm talking about -- that psychological construct to protect you from the results of your work.
+TARGET: c'est une idée brillante : la voilà, la distance dont je parle, cette construction mentale pour se protéger des résultats de son travail.
+PREDICTED: et si brillant -- il y a là , à droite , cette distance dont je parle -- qui nous permet de maintenir des résultats de votre travail .
+BLEU Score: 0.1450, CER: 0.5401, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: it means we made cultural impact as well as scientific impact.
+TARGET: ca veut dire que nous avons fait un impact culturel autant qu'un impact scientifique.
+PREDICTED: cela signifie que nous sommes d ' impact en tant que science de l ' impact scientifique .
+BLEU Score: 0.0000, CER: 0.5059, WER: 1.0714
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and there are several reasons for this.
+TARGET: pour plusieurs raisons.
+PREDICTED: et il y a plusieurs raisons pour cela .
+BLEU Score: 0.0000, CER: 0.8696, WER: 2.6667
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: so i don't have to plan it out in advance, but i can improvise, making it longer or shorter as i go.
+TARGET: je n'ai donc pas besoin de la planifier à l'avance, mais je peux improviser, je peux l'allonger ou la raccourcir en plein milieu.
+PREDICTED: je n ' ai pas à conclure en ayant accès aux efforts d ' avance , mais je peux plus vous y emmener ou plus jeunes que je vais faire .
+BLEU Score: 0.0967, CER: 0.6512, WER: 1.0870
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: the greeks famously called these divine attendant spirits of creativity "daemons."
+TARGET: les grecs appelaient ces esprits créatifs divins et bienveillants les « démons ».
+PREDICTED: les grecs se sont souvent comme ceux qui se sont de la créativité "
+BLEU Score: 0.0000, CER: 0.7037, WER: 1.0909
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: but every once in a while, very rarely, something would happen, and one of these performers would actually become transcendent.
+TARGET: mais parfois, très rarement, il se passait quelque chose, et l'un de ces artistes atteignait la transcendance.
+PREDICTED: mais après chacun d ' un certain temps , très rarement quelque chose d ' important se produit , et l ' un de ces super - serait devenue réalité .
+BLEU Score: 0.0000, CER: 0.8364, WER: 1.5294
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: amazing! the machinery is kind of loud.
+TARGET: incroyable! les machines sont plutôt bruyantes.
+PREDICTED: cette machine est l ' unique . la probabilité en quelque sorte .
+BLEU Score: 0.0000, CER: 1.0426, WER: 2.1667
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: here's an actual micrograph of the molecule we built using these processes, actually just using yeast mechanisms with the right design of the pieces we put them in; yeast puts them together automatically.
+TARGET: voici une micrographie de la molécule que nous avons construite en utilisant ces processus - en réalité simplement les mécanismes des levures avec une conception adéquate des morceaux utilisés. la levure les assemble automatiquement.
+PREDICTED: voici une vraie molécule de la molécule que nous avons construits entre ces processus , en fait des mécanismes de capture avec la bonne conception des parties que nous les mettons dans la , les avons combinés automatiquement dans un produit automatiquement .
+BLEU Score: 0.1615, CER: 0.5279, WER: 0.8529
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: we can dive in from the poster to a physical view of this environment.
+TARGET: on peut plonger depuis le poster dans une vue physique de l'environnement.
+PREDICTED: nous pouvons commencer par l ' poster d ' un appareil physique de cet environnement .
+BLEU Score: 0.0000, CER: 0.5000, WER: 1.0833
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: in 25 years it's gone from this, to this.
+TARGET: en 25 ans, on est passé de çà, à çà.
+PREDICTED: pendant 25 ans , il est passé de cette manière .
+BLEU Score: 0.0000, CER: 0.5833, WER: 0.7000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: and those other things may have lots of attractive features, and it's going to make what you're doing less attractive.
+TARGET: qui peuvent être très attirantes. et cela rendra ce que vous faites moins attractif.
+PREDICTED: et ces autres choses sont en forcément des caractéristiques , et cela va être ce que vous faites moins de pensez moins moi .
+BLEU Score: 0.1804, CER: 0.8214, WER: 1.2143
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: a colleague of mine got access to investment records from vanguard, the gigantic mutual fund company of about a million employees and about 2,000 different workplaces.
+TARGET: une de mes collègues a eu accès aux registres d'investissement de vanguard, la gigantesque compagnie de fonds mutuels de 1 million d'employés et 2000 succursales.
+PREDICTED: un collègue de mes a accès à un investissement de , l ’ de produits à environ un million de employés et de environ 2 000 différents .
+BLEU Score: 0.0000, CER: 0.6111, WER: 0.9200
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: whether it's the abode of a spirit or a pile of ore is irrelevant.
+TARGET: que ce soit la demeure d'un esprit ou un tas de minerai, est sans rapport.
+PREDICTED: que ce soit le d ' un esprit ou un tas de est d ' évaluation .
+BLEU Score: 0.3028, CER: 0.3919, WER: 0.6000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: the answer -- the short answer to all those questions is, "yes."
+TARGET: la réponse à toutes ces questions est « oui ».
+PREDICTED: la réponse -- la réponse à tout ces questions est : " oui ."
+BLEU Score: 0.0000, CER: 0.5000, WER: 1.0000
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: everyone knew your genius was kind of lame.
+TARGET: tout le monde savait qu'on avait un génie minable.
+PREDICTED: tout le monde savait que tout le bien - être est .
+BLEU Score: 0.2242, CER: 0.4600, WER: 0.8889
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: they have a curious language and marriage rule which is called "linguistic exogamy:" you must marry someone who speaks a different language.
+TARGET: ils ont une règle de langue et de mariage particulières qui s'appelle l'exogamie linguistique : vous devez épouser une personne qui parle une langue différente.
+PREDICTED: ils ont un langage bizarre et la règle , qui s ' appelle « plat , on doit épouser quelqu ' un qui parle de langage différent .
+BLEU Score: 0.0000, CER: 0.4938, WER: 0.8800
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: you know, i never thought that i'd end up working at microsoft.
+TARGET: vous savez, je n'aurais jamais cru que je finirais par travailler chez microsoft.
+PREDICTED: vous savez , je n ' ai jamais pensé que je devais travailler à microsoft word .
+BLEU Score: 0.1935, CER: 0.3704, WER: 0.9231
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: one of them is seadragon and the other is some very beautiful computer vision research done by noah snavely, a graduate student at the university of washington, co-advised by steve seitz at u.w.
+TARGET: l'une d'entre elles est seadragon et l'autre est issue d'une recherche magnifique sur la vision informatisée menée par noah snavely, un étudiant de 3ème cycle à l'université de washington, co-dirigée par steve seitz à l'uw
+PREDICTED: l ' une d ' entre elles est et l ' autre des autres études en train de faire des recherches très belles , une école de à l ' université de washington , a à l ' université de .
+BLEU Score: 0.0000, CER: 0.5721, WER: 1.0571
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: what i'm telling you is that these expensive, complicated choices -- it's not simply that they don't help.
+TARGET: je vous dis que ces choix compliqués et onéreux -- non seulement ne servent à rien,
+PREDICTED: ce que je vous dis c ' est que ces choix sont chères . ce n ' est pas seulement qu ' elles n ' utilisent pas .
+BLEU Score: 0.0000, CER: 0.7349, WER: 1.3125
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+SOURCE: this happened around christmas.
+TARGET: ca s'est produit aux alentours de noël.
+PREDICTED: c ' est ce qui arrive à noël .
+BLEU Score: 0.0000, CER: 0.5641, WER: 1.2857
+--------------------------------------------------------------------------------
+
